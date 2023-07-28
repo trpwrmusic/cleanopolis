@@ -1,5 +1,8 @@
 # cleanopolis
 
+We have build a prototype with Adobe XD (see cleanopolis_demo.mp4). 
+Right now we are working on translating our vision to code.
+
 ## Tech
 We are useing Python as a ***backend*** with the streamlit library for a ***frontend***.
 
