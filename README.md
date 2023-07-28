@@ -1,5 +1,9 @@
 # cleanopolis
 
+## Backend
+We are useing Python as a backend with the streamlit library for a frontend.
+
+
 ## Librarys (must install)
 streamlit
 ⋅ folium
