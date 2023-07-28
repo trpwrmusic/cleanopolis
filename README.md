@@ -1,6 +1,6 @@
 # cleanopolis
 
-We have built a prototype with Adobe XD (see cleanopolis_demo.mp4). 
+We have built a prototype with Adobe XD (see cleanopolis_demo.mp4, it's a bit more detailed than the version that has been in the pitch). 
 
 Right now we are working on translating our vision to code.
 
