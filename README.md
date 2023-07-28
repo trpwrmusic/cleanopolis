@@ -11,7 +11,7 @@ pip install streamlit
 pip install folium
 ```
 
-⋅ streamlitfolium
+⋅ streamlit-folium
 ```python
 pip install streamlit-folium
 ```
