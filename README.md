@@ -1,7 +1,7 @@
 # cleanopolis
 
 ## Librarys (must install)
-⋅ streamlit
+streamlit
 ⋅ folium
 ⋅ streamlit-folium
 ⋅ numpy
