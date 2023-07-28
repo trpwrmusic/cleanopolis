@@ -2,30 +2,17 @@
 
 ## Librarys (must install)
 ⋅ streamlit
-```python
-pip install streamlit
-```
-
 ⋅ folium
-```python
-pip install folium
-```
-
 ⋅ streamlit-folium
-```python
-pip install streamlit-folium
-```
-
 ⋅ numpy
-```python
-pip install numpy
-```
-
 ⋅ pandas
 ```python
+pip install streamlit
+pip install folium
+pip install streamlit-folium
+pip install numpy
 pip install pandas
 ```
-
 
 ## Run
 #### Run app.py tp see a demo page. 
