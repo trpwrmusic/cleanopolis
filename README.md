@@ -1,16 +1,16 @@
 # cleanopolis
 
-We have build a prototype with Adobe XD (see cleanopolis_demo.mp4). 
+We have built a prototype with Adobe XD (see cleanopolis_demo.mp4). 
 
 Right now we are working on translating our vision to code.
 
 ## Tech
-We are useing Python as a ***backend*** with the streamlit library for a ***frontend***.
+We are using Python as a ***backend*** with the streamlit library for a ***frontend***.
 
-For the image recognization we used OpenCV but this just broke the code so we took it out for now. xD
+For the image recognition we used OpenCV but this just broke the code so we took it out for now. 
 
 
-## Librarys (must install)
+## Libraries (must install)
 streamlit
 ⋅ folium
 ⋅ streamlit-folium
