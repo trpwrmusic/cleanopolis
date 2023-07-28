@@ -1,7 +1,7 @@
 # cleanopolis
 
-## Backend
-We are useing Python as a backend with the streamlit library for a frontend.
+## Tech
+We are useing Python as a ***backend*** with the streamlit library for a ***frontend***.
 
 For the image recognization we used OpenCV but this just broke the code so we took it out for now.
 
