@@ -21,4 +21,9 @@ pip install pandas
 ```
 
 ## Run
-#### Run app.py tp see a demo page. 
+#### Run 
+
+```python
+streamlit run app.py
+```
+to see a demo page. 
